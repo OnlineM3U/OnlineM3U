@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Updated Footer:** Revamped the site footer to include direct links to all new standalone pages.
 
 ### Added
+- **Desktop Apps:** Launched native desktop applications for Windows, Mac, and Linux.
 - **Terms of Service:** Added a dedicated Terms of Service page outlining the player's client-side, non-hosted nature.
 - **Contact Page:** Added a dedicated Contact Us page for support and inquiries.
 - **Playlist Caching:** Implemented local caching for built-in playlists to dramatically improve load times and reduce unnecessary network requests on subsequent visits.
