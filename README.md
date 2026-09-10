@@ -2,6 +2,10 @@
 
 Welcome to OnlineM3U! In addition to our web app, you can install OnlineM3U natively on your desktop for a more integrated, high-performance experience.
 
+**Quick Links:**
+- 📥 [Download Latest Release (v1.1.0)](https://github.com/OnlineM3U/OnlineM3U/releases/tag/v1.1.0)
+- 📝 [Read the Changelog](https://github.com/OnlineM3U/OnlineM3U/blob/main/CHANGELOG.md)
+
 ## Windows
 1. Download the latest `OnlineM3U Setup.exe` file from our releases page.
 2. Double-click the `.exe` file.
