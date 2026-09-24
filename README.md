@@ -3,7 +3,7 @@
 Welcome to OnlineM3U! In addition to our web app, you can install OnlineM3U natively on your desktop for a more integrated, high-performance experience.
 
 **Quick Links:**
-- 📥 [Download Latest Release (v1.1.0)](https://github.com/OnlineM3U/OnlineM3U/releases/tag/v1.1.0)
+- 📥 [Download Latest Release (v2.0.0)](https://github.com/OnlineM3U/OnlineM3U/releases/tag/v2.0.0)
 - 📝 [Read the Changelog](https://github.com/OnlineM3U/OnlineM3U/blob/main/CHANGELOG.md)
 
 ## Windows
