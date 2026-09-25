@@ -5,7 +5,33 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.1.2] - 2026-09-11
+## [2.0.0] - 2026-09-24
+OnlineM3U 2.0 is our biggest update yet, bringing a complete UI redesign, a brand-new unified player, and massive feature additions designed to give you a premium, seamless streaming experience.
+
+### Added
+- **Complete UI Redesign:** Enjoy a fresh, modern, and highly intuitive interface across the entire application.
+- **Brand New Unified Player:** A completely rebuilt video player delivering lightning-fast playback, built-in settings, and deep UI customizations to suit your preferences.
+- **New Modular Dashboard:** A smarter, personalized dashboard giving you quick access to your content.
+- **Dedicated Content Views:** Brand new, optimized browsing views specifically designed for Live TV, Series, and Movies.
+- **Continue Watching & Favorites:** Seamlessly pick up exactly where you left off and easily save your favorite channels and movies for quick access.
+- **Binge-Watching Ready:** Added Auto-play for series episodes and smart content suggestions after movies finish.
+- **Language Settings:** Added dedicated language settings to customize your interface and content preferences.
+- **Browser Extensions (Coming Soon):** We are excited to announce official browser extensions for Firefox and Chrome, arriving soon to guarantee CORS bypasses!
+- **Auto-Updater for Web:** A new silent auto-updater ensures you are always running the latest, fastest, and most secure version of the web app without having to refresh.
+- **New Guides & Tools:** Launched a comprehensive portal filled with new tutorials, setup guides, and IPTV tools.
+- **Progressive Web App (PWA):** Install OnlineM3U directly to your desktop or mobile home screen for a fast, native app-like experience.
+- **Chromecast Support:** Cast your favorite Live TV and movies directly to your TV with built-in Chromecast integration.
+- **Social Sharing:** Easily share your favorite streams and content with friends using the new sharing modal.
+
+### Changed
+- **Immersive Watch Experience:** The player now features an auto-hide header and distraction-free layout, putting the focus entirely on your content.
+- **Streamlined Navigation:** Reorganized menus and layouts for a faster, frictionless browsing experience on both desktop and mobile devices.
+
+### Fixed
+- **Stream Error Handling:** Improved automatic retries and error reporting for unreliable streams.
+- **Player Visuals:** Fixed a visual glitch where the play/pause icon would incorrectly appear when hovering over the video.
+
+## [1.2.0] - 2026-09-11
 ### Added
 - **About Page:** Created a dedicated About Us page detailing the project's mission, core values, and client-side architecture.
 - **Feedback & Support:** Added a "Report Bug / Request Feature" button in the sidebar linking directly to the GitHub issues tracker.
@@ -13,11 +39,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - **UI Tweaks:** Resized the sidebar action buttons (Media Guides, Bug Report, Share) and adjusted their icons to lay inline with the text for a cleaner look. Swapped the order of the Share and Bug Report buttons.
 
-## [1.1.1] - 2026-09-10 
+## [1.1.1] - 2026-09-10
 ### Changed
 - **Privacy Compliance:** Switched to Google's Consent Management Platform (CMP) for handling GDPR/CCPA cookie consent, removing the legacy custom cookie banner.
 
-## [1.1.0] - 2026-09-09 - Latest Desktop Version
+## [1.1.0] - 2026-09-09
 ### Changed
 - **Ad-Free Experience:** Completely removed third-party banner ads from the sidebar and pre-roll video ads from the media player to provide a cleaner, uninterrupted streaming experience.
 - **Improved Legal Navigation:** Moved Privacy Policy and DMCA information out of pop-up modals and onto their own dedicated, standalone pages for easier reading.
