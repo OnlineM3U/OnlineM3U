@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.1] - 2026-09-24
+### Fixed
+- **Stream Error Handling:** Minor hotfix to display specific troubleshooting steps and a direct resolution guide when users encounter "Mixed Content" (HTTP blocked) streams on the web platform.
+
 ## [2.0.0] - 2026-09-24
 OnlineM3U 2.0 is our biggest update yet, bringing a complete UI redesign, a brand-new unified player, and massive feature additions designed to give you a premium, seamless streaming experience.
 
