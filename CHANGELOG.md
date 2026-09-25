@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.2] - 2026-09-24
+### Fixed
+- **Player Stability:** Hotfix to resolve a bug where specific .mkv (HEVC) streams would silently fail to hardware decode, causing infinite buffering without falling back to the software decoder.
+- **Dashboard Crash:** Fixed an edge-case bug where the application would crash when attempting to render the dashboard history if a user watched a video on a fresh install.
+
 ## [2.0.1] - 2026-09-24
 ### Fixed
 - **Stream Error Handling:** Minor hotfix to display specific troubleshooting steps and a direct resolution guide when users encounter "Mixed Content" (HTTP blocked) streams on the web platform.
