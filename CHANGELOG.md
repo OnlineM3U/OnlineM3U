@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.4] - 2026-09-28
+### Added
+- **Browser Extension:** Added support for the new Chrome browser extension to seamlessly bypass CORS restrictions alongside the existing Firefox add-on.
+
 ## [2.0.3] - 2026-09-25
 ### Added
 - **Player Updates:** Added the ability to favorite content in the search screen. 
